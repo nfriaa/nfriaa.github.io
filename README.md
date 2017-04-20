@@ -3,5 +3,9 @@
 ```php
 $coming->soon("Hello World");
 ```
+and 
+```java
+System.out.println("Hello World!");
+```
 
 ;-)
